@@ -4,7 +4,7 @@
 
 **ESTADO DE LA MISIÓN: PENDIENTE**
 
-**Mensaje a la tripulación:** Esperando instrucciones.
+**Mensaje a la tripulación:** Hola espacio y mundo. Esperando aprobación de Órbita
 
 ## Decisiones de los equipos
 
