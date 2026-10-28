@@ -3,6 +3,7 @@
 **Responsabilidad:** preparar la fase de aterrizaje.
 
 ## Retos
+
 1. En este archivo, sustituye los campos pendientes por una decisión concreta.
 2. Agrega **tres pasos** de aterrizaje, escritos con claridad.
 3. Modifica `panel/estado.md`: reemplaza `PENDIENTE` por `ATERRIZAJE LISTO POR ORBITA`.
@@ -11,9 +12,11 @@
 6. Pide una revisión a Aurora; responde y corrige al menos un comentario.
 
 ## Plan de aterrizaje
-- Paso 1: pendiente.
-- Paso 2: pendiente.
-- Paso 3: pendiente.
+
+- Paso 1: preparar angulo de entrada.
+- Paso 2: retraer probes.
+- Paso 3: preparar propulsores.
 
 ## Pregunta para el otro equipo
+
 ¿Qué podría salir mal durante el aterrizaje?
