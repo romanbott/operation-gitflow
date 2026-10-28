@@ -11,9 +11,9 @@
 6. Pide una revisión a Órbita; responde y corrige al menos un comentario.
 
 ## Plan de lanzamiento
-- Paso 1: pendiente.
-- Paso 2: pendiente.
-- Paso 3: pendiente.
+- Paso 1: Revisar el estado de la nave y condición de la tripulación, clima (que no haga frío para evitar explosiones) y hora. 
+- Paso 2: Abordar
+- Paso 3: Iniciar cuenta regresiva. 
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el lanzamiento?
