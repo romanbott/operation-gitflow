@@ -8,7 +8,7 @@
 
 ## Decisiones de los equipos
 
-- Aurora: LANZAMIENTO LISTO.
+- Aurora: LANZAMIENTO LISTO POR AURORA.
 - Órbita: pendiente.
 
 > Atención: ambos equipos tendrán que editar la línea `ESTADO DE LA MISIÓN` en sus ramas. ¡No se coordinen para usar el mismo texto! La diferencia creará un caso para resolver cuando se integre el segundo PR.
